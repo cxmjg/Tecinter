@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <unattend xmlns="urn:schemas-microsoft-com:unattend" xmlns:wcm="http://schemas.microsoft.com/WMIConfig/2002/State">
-	<!--https://schneegans.de/windows/unattend-generator/?LanguageMode=Unattended&UILanguage=es-MX&Locale=es-AR&Keyboard=0000040a&GeoLocation=11&ProcessorArchitecture=amd64&BypassRequirementsCheck=true&ComputerNameMode=Script&ComputerNameScript=return+%27TECINTER-%7B0%3AD3%7D%27+-f+%28+Get-Random+-Minimum+0+-Maximum+999+%29%3B&CompactOsMode=Never&TimeZoneMode=Explicit&TimeZone=Argentina+Standard+Time&PartitionMode=Unattended&PartitionLayout=GPT&EspSize=300&RecoveryMode=Partition&RecoverySize=1000&DiskAssertionMode=Skip&WindowsEditionMode=Generic&WindowsEdition=pro&UserAccountMode=Unattended&AccountName0=Tecinter&AccountDisplayName0=&AccountPassword0=&AccountGroup0=Administrators&AccountName1=&AccountName2=&AccountName3=&AccountName4=&AutoLogonMode=Own&PasswordExpirationMode=Unlimited&LockoutMode=Default&HideFiles=Hidden&ClassicContextMenu=true&TaskbarSearch=Icon&TaskbarIconsMode=Empty&DisableWidgets=true&LeftTaskbar=true&HideTaskViewButton=true&DisableBingResults=true&StartTilesMode=Empty&StartPinsMode=Empty&EnableLongPaths=true&AllowPowerShellScripts=true&DisableAppSuggestions=true&PreventDeviceEncryption=true&HideEdgeFre=true&DisableEdgeStartupBoost=true&EffectsMode=Custom&DWMAeroPeekEnabled=true&DWMSaveThumbnailEnabled=true&CursorShadow=true&ListviewShadow=true&ThumbnailsOrIcon=true&ListviewAlphaSelect=true&DragFullWindows=true&FontSmoothing=true&DesktopIconsMode=Default&WifiMode=Unattended&WifiName=Tecinter&WifiNonBroadcast=true&WifiAuthentication=WPA2PSK&WifiPassword=nagodelamuerte&ExpressSettings=DisableAll&KeysMode=Configure&CapsLockInitial=Off&CapsLockBehavior=Toggle&NumLockInitial=On&NumLockBehavior=Toggle&ScrollLockInitial=Off&ScrollLockBehavior=Toggle&ColorMode=Custom&SystemColorTheme=Dark&AppsColorTheme=Dark&AccentColor=%23135a0c&WallpaperMode=Script&WallpaperScript=%24url+%3D+%27https%3A%2F%2Fraw.githubusercontent.com%2Fcxmjg%2FTecinter%2Fcf873ef6b5407f52a652b70eda9345f7178cb311%2FWindows%2520Tecinter%2Fwallpaper.png%27%3B%0D%0Areturn+%28+Invoke-WebRequest+-Uri+%24url+-UseBasicParsing+-TimeoutSec+30+%29.Content%3B&Remove3DViewer=true&RemoveBingSearch=true&RemoveClipchamp=true&RemoveCopilot=true&RemoveCortana=true&RemoveDevHome=true&RemoveFamily=true&RemoveFeedbackHub=true&RemoveGetHelp=true&RemoveHandwriting=true&RemoveInternetExplorer=true&RemoveMailCalendar=true&RemoveMaps=true&RemoveMathInputPanel=true&RemoveMixedReality=true&RemoveZuneVideo=true&RemoveNews=true&RemoveOffice365=true&RemoveOneDrive=true&RemoveOneNote=true&RemoveOneSync=true&RemoveOpenSSHClient=true&RemoveOutlook=true&RemovePaint3D=true&RemovePeople=true&RemovePowerAutomate=true&RemovePowerShellISE=true&RemoveQuickAssist=true&RemoveRecall=true&RemoveRdpClient=true&RemoveSkype=true&RemoveSolitaire=true&RemoveSpeech=true&RemoveStepsRecorder=true&RemoveTeams=true&RemoveGetStarted=true&RemoveToDo=true&RemoveVoiceRecorder=true&RemoveWallet=true&RemoveWeather=true&RemoveFaxAndScan=true&RemoveWindowsMediaPlayer=true&RemoveZuneMusic=true&RemoveWindowsTerminal=true&RemoveXboxApps=true&RemoveYourPhone=true&FirstLogonScript1=powershell.exe+irm+https%3A%2F%2Fget.activated.win+%7C+iex+%2FHWID+%2FS&FirstLogonScriptType1=Ps1&WdacMode=Skip-->
+	<!--https://schneegans.de/windows/unattend-generator/?LanguageMode=Unattended&UILanguage=es-MX&Locale=es-AR&Keyboard=0000040a&GeoLocation=11&ProcessorArchitecture=amd64&BypassRequirementsCheck=true&ComputerNameMode=Script&ComputerNameScript=return+%27TECINTER-%7B0%3AD3%7D%27+-f+%28+Get-Random+-Minimum+0+-Maximum+999+%29%3B&CompactOsMode=Never&TimeZoneMode=Explicit&TimeZone=Argentina+Standard+Time&PartitionMode=Unattended&PartitionLayout=GPT&EspSize=300&RecoveryMode=Partition&RecoverySize=1000&DiskAssertionMode=Skip&WindowsEditionMode=Generic&WindowsEdition=pro&UserAccountMode=Unattended&AccountName0=Tecinter&AccountDisplayName0=&AccountPassword0=&AccountGroup0=Administrators&AccountName1=&AccountName2=&AccountName3=&AccountName4=&AutoLogonMode=Own&PasswordExpirationMode=Unlimited&LockoutMode=Default&HideFiles=Hidden&ClassicContextMenu=true&TaskbarSearch=Icon&TaskbarIconsMode=Empty&DisableWidgets=true&LeftTaskbar=true&HideTaskViewButton=true&DisableBingResults=true&StartTilesMode=Empty&StartPinsMode=Empty&EnableLongPaths=true&AllowPowerShellScripts=true&DisableAppSuggestions=true&PreventDeviceEncryption=true&HideEdgeFre=true&DisableEdgeStartupBoost=true&EffectsMode=Custom&DWMAeroPeekEnabled=true&DWMSaveThumbnailEnabled=true&CursorShadow=true&ListviewShadow=true&ThumbnailsOrIcon=true&ListviewAlphaSelect=true&DragFullWindows=true&FontSmoothing=true&DesktopIconsMode=Default&WifiMode=Unattended&WifiName=Tecinter&WifiNonBroadcast=true&WifiAuthentication=WPA2PSK&WifiPassword=nagodelamuerte&ExpressSettings=DisableAll&KeysMode=Configure&CapsLockInitial=Off&CapsLockBehavior=Toggle&NumLockInitial=On&NumLockBehavior=Toggle&ScrollLockInitial=Off&ScrollLockBehavior=Toggle&ColorMode=Custom&SystemColorTheme=Dark&AppsColorTheme=Dark&AccentColor=%23135a0c&WallpaperMode=Script&WallpaperScript=%24url+%3D+%27https%3A%2F%2Fraw.githubusercontent.com%2Fcxmjg%2FTecinter%2Fcf873ef6b5407f52a652b70eda9345f7178cb311%2FWindows%2520Tecinter%2Fwallpaper.png%27%3B%0D%0Areturn+%28+Invoke-WebRequest+-Uri+%24url+-UseBasicParsing+-TimeoutSec+30+%29.Content%3B&Remove3DViewer=true&RemoveBingSearch=true&RemoveClipchamp=true&RemoveCopilot=true&RemoveCortana=true&RemoveDevHome=true&RemoveFamily=true&RemoveFeedbackHub=true&RemoveGetHelp=true&RemoveHandwriting=true&RemoveInternetExplorer=true&RemoveMailCalendar=true&RemoveMaps=true&RemoveMathInputPanel=true&RemoveMixedReality=true&RemoveZuneVideo=true&RemoveNews=true&RemoveOffice365=true&RemoveOneDrive=true&RemoveOneNote=true&RemoveOneSync=true&RemoveOpenSSHClient=true&RemoveOutlook=true&RemovePaint3D=true&RemovePeople=true&RemovePowerAutomate=true&RemovePowerShellISE=true&RemoveQuickAssist=true&RemoveRecall=true&RemoveRdpClient=true&RemoveSkype=true&RemoveSolitaire=true&RemoveSpeech=true&RemoveStepsRecorder=true&RemoveTeams=true&RemoveGetStarted=true&RemoveToDo=true&RemoveVoiceRecorder=true&RemoveWallet=true&RemoveWeather=true&RemoveFaxAndScan=true&RemoveWindowsMediaPlayer=true&RemoveZuneMusic=true&RemoveWindowsTerminal=true&RemoveXboxApps=true&RemoveYourPhone=true&FirstLogonScript0=powershell.exe+irm+https%3A%2F%2Fget.activated.win+%7C+iex+%2FHWID+%2FS&FirstLogonScriptType0=Ps1&FirstLogonScript1=%23+Crear+carpeta+temporal%0D%0A%24tempDir+%3D+%22%24env%3AUSERPROFILE%5COfficeInstaller%22%0D%0ANew-Item+-Path+%24tempDir+-ItemType+Directory+-Force+%7C+Out-Null%0D%0ASet-Location+%24tempDir%0D%0A%0D%0A%23+URLs+de+los+archivos+desde+GitHub+%28raw%29%0D%0A%24baseUrl+%3D+%22https%3A%2F%2Fraw.githubusercontent.com%2Fcxmjg%2FTecinter%2Fmain%2FOffice%22%0D%0A%24files+%3D+%40%28%22Instalar.cmd%22%2C+%22configuration.xml%22%29%0D%0A%0D%0A%23+Descargar+archivos+.cmd+y+.xml%0D%0Aforeach+%28%24file+in+%24files%29+%7B%0D%0A++++%24url+%3D+%22%24baseUrl%2F%24file%22%0D%0A++++%24output+%3D+%22%24tempDir%5C%24file%22%0D%0A++++Invoke-WebRequest+-Uri+%24url+-OutFile+%24output%0D%0A%7D%0D%0A%0D%0A%23+Descargar+setup.exe+desde+GitHub+releases+o+como+archivo+binario+crudo%0D%0A%24setupUrl+%3D+%22https%3A%2F%2Fgithub.com%2Fcxmjg%2FTecinter%2Fraw%2Fmain%2FOffice%2Fsetup.exe%22%0D%0AInvoke-WebRequest+-Uri+%24setupUrl+-OutFile+%22%24tempDir%5Csetup.exe%22%0D%0A%0D%0A%23+Ejecutar+Instalar.cmd%0D%0AStart-Process+-FilePath+%22%24tempDir%5CInstalar.cmd%22+-Wait+-NoNewWindow%0D%0A&FirstLogonScriptType1=Ps1&WdacMode=Skip-->
 	<settings pass="offlineServicing"></settings>
 	<settings pass="windowsPE">
 		<component name="Microsoft-Windows-International-Core-WinPE" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
@@ -612,6 +612,30 @@ Set-WallpaperImage -LiteralPath 'C:\Windows\Setup\Scripts\Wallpaper';
 		<File path="C:\Windows\Setup\Scripts\unattend-01.ps1">
 powershell.exe irm https://get.activated.win | iex /HWID /S
 		</File>
+		<File path="C:\Windows\Setup\Scripts\unattend-02.ps1">
+# Crear carpeta temporal
+$tempDir = "$env:USERPROFILE\OfficeInstaller"
+New-Item -Path $tempDir -ItemType Directory -Force | Out-Null
+Set-Location $tempDir
+
+# URLs de los archivos desde GitHub (raw)
+$baseUrl = "https://raw.githubusercontent.com/cxmjg/Tecinter/main/Office"
+$files = @("Instalar.cmd", "configuration.xml")
+
+# Descargar archivos .cmd y .xml
+foreach ($file in $files) {
+    $url = "$baseUrl/$file"
+    $output = "$tempDir\$file"
+    Invoke-WebRequest -Uri $url -OutFile $output
+}
+
+# Descargar setup.exe desde GitHub releases o como archivo binario crudo
+$setupUrl = "https://github.com/cxmjg/Tecinter/raw/main/Office/setup.exe"
+Invoke-WebRequest -Uri $setupUrl -OutFile "$tempDir\setup.exe"
+
+# Ejecutar Instalar.cmd
+Start-Process -FilePath "$tempDir\Instalar.cmd" -Wait -NoNewWindow
+		</File>
 		<File path="C:\Windows\Setup\Scripts\Specialize.ps1">
 $scripts = @(
 	{
@@ -882,6 +906,9 @@ $scripts = @(
 	};
 	{
 		Get-Content -LiteralPath 'C:\Windows\Setup\Scripts\unattend-01.ps1' -Raw | Invoke-Expression;
+	};
+	{
+		Get-Content -LiteralPath 'C:\Windows\Setup\Scripts\unattend-02.ps1' -Raw | Invoke-Expression;
 	};
 );
 
